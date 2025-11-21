@@ -39,7 +39,10 @@ body{scrollbar-width:none;-ms-overflow-style:none;}
 {
     color: #25D366;
 }
-
+.gmail
+{
+ color: #D93025;
+}
 .insta-link {
   text-decoration: none;
   font-weight: bold;
@@ -207,4 +210,5 @@ footer{padding:24px 0;border-top:1px solid #222;font-size:0.9rem;text-align:cent
 .menu-btn{ background: none; color: #111; cursor:default;}
 .menu-btn2{background: none; color: #111; cursor:default;}    
     
+
 }
